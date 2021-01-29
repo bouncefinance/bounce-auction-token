@@ -1,0 +1,10 @@
+{
+  "name": "bounce-auction-token-contract",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "Bounce",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0"
+  }
+}
